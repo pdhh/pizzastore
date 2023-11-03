@@ -142,4 +142,4 @@ dotnet add package Swashbuckle.AspNetCore --version 6.1.4
 
 ![alt](https://learn.microsoft.com/es-es/training/aspnetcore/build-web-api-minimal-api/media/swagger-todo-api.png)
 
-## Para mas informacion seguir el [Creación de aplicaciones web y servicios con ASP.NET Core, API mínima y .NET](https://learn.microsoft.com/es-es/training/paths/aspnet-core-minimal-api/)
+## Para mas informacion seguir el enlace [Creación de aplicaciones web y servicios con ASP.NET Core, API mínima y .NET](https://learn.microsoft.com/es-es/training/paths/aspnet-core-minimal-api/)
